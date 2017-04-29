@@ -1,0 +1,28 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.grid{
+	-fx-font-size: 100%;
+}
+.wall{
+	-fx-background-color:gray;
+	-fx-border-style:solid;
+}
+.free{
+	-fx-background-color:black;
+	-fx-border-style:solid;
+}
+.startEnd{
+	-fx-background-color:blue;
+	-fx-text-fill:red;
+	-fx-border-style:solid;
+	-fx-alignment: center;
+}
+.title{
+	-fx-alignment: center;
+}
+.fool{
+	-fx-background-color:green;
+	-fx-alignment: center;
+}
+.bull{
+	-fx-background-color:red;
+}
